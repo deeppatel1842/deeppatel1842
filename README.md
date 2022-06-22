@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeppatel1842&show_icons=true&theme=tokyonight" alt="deeppatel1842" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeppatel184&show_icons=true&theme=tokyonight" alt="deeppatel1842" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeppatel1842&show_icons=true&theme=tokyonight" alt="deeppatel1842" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeppatel1842&theme=tokyonight&&layout=compact" alt="deeppatel1842" style="color:black" /></p>
 
