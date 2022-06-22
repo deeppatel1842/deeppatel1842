@@ -1,4 +1,3 @@
-<p><img align="center" src="https://c4.wallpaperflare.com/wallpaper/67/72/30/code-programming-microsoft-visual-studio-wallpaper-preview.jpg" /></p>
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
 <h3 align="center">I'm Frontend Developer as well as Machine Learning Engineer.</h3>
 
