@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend developing and deep learning.**
 
-- 👨‍💻 All of my projects are available at [https://deep-portfolio.000webhostapp.com/](https://deep-portfolio.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://deeppatel-portfolio.000webhostapp.com/](https://deeppatel-portfolio.000webhostapp.com/)
 
 - 🎓 **CSE graduate student.**
 
