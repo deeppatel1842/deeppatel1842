@@ -49,6 +49,3 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 
 ---
-
-### 📈 **GitHub Stats**  
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeppatel1842&show_icons=true&theme=radical&hide_title=true)
