@@ -36,7 +36,7 @@
 
 ### 🛠️ **Tech Stack**  
 **Languages**:  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+Python
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 **ML/Cloud**:  
