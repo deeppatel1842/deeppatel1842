@@ -36,16 +36,16 @@
 
 ### 🛠️ **Tech Stack**  
 **Languages**:  
-Python
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://dev.mysql.com/doc/)
 
 **ML/Cloud**:  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)](https://pytorch.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)](https://www.docker.com/)
 
 **Tools**:  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface)](https://huggingface.co/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 
 ---
