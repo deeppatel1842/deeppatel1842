@@ -17,6 +17,12 @@
 ---
 
 ### 🚀 **Featured Projects**  
+### [Semantic Book Recommendation with LLMs](https://github.com/deeppatel1842/book_recommendation_LLM)
+`LLM` `Semantic Search` `Emotion-Aware` `Gradio`  
+- Provides personalized book recommendations by understanding meaning and emotions.
+- Uses sentence-transformers and emotion-english-distilroberta-base with Gradio interface.
+
+
 #### [EcoAssist: RAG-Powered E-Commerce Chatbot](https://github.com/deeppatel1842/EcoAssist)  
 `GPT` `Llama` `FAISS` `AWS Lambda`  
 - Fine-tuned LLMs on 5k+ domain-specific interactions via Hugging Face  
