@@ -23,17 +23,17 @@
 - Uses sentence-transformers and emotion-english-distilroberta-base with Gradio interface.
 
 
-#### [EcoAssist: RAG-Powered E-Commerce Chatbot]  
+#### EcoAssist: RAG-Powered E-Commerce Chatbot 
 `GPT` `Llama` `FAISS` `AWS Lambda`  
 - Fine-tuned LLMs on 5k+ domain-specific interactions via Hugging Face  
 - Achieved 92% answer accuracy with RAG + real-time data retrieval  
 
-#### [ScoreVision: IPL Prediction Engine]  
+#### ScoreVision: IPL Prediction Engine 
 `XGBoost` `Gemini API` `Llama-2`  
 - Engineered 50+ features for match outcome forecasting (2008-2024 data)  
 - Automated data workflows, reducing cleaning time by 40%  
 
-#### [JetNav: Autonomous Navigation System]
+#### JetNav: Autonomous Navigation System
 `PyTorch` `ResNet-18` `SLAM` `AWS EC2`  
 - Achieved 80% collision avoidance accuracy in dynamic environments  
 - Optimized inference speed by 15% via PyTorch quantization  
