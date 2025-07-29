@@ -61,7 +61,7 @@ I’m a passionate AI/ML Engineer specializing in **LLM fine-tuning**, **retriev
 
 ---
 
-#### 💬 [**EcoAssist: RAG-Powered E-Commerce Chatbot**](https://github.com/deeppatel1842/ecoassist)  
+#### 💬 [**EcoAssist: RAG-Powered E-Commerce Chatbot**](https://github.com/deeppatel1842/ecom-chatbot)  
 `GPT` `LLaMA` `FAISS` `LoRA` `FastAPI` `AWS Lambda`  
 > A domain-specific AI chatbot for e-commerce query resolution with real-time product lookup.  
 - Fine-tuned GPT-2/LLaMA on 5K+ queries with LoRA/QLoRA  
@@ -70,7 +70,7 @@ I’m a passionate AI/ML Engineer specializing in **LLM fine-tuning**, **retriev
 
 ---
 
-#### 🛒 [**EzyShop: Full-Stack E-Commerce Platform**](https://github.com/deeppatel1842/ezyshop)  
+#### 🛒 [**EzyShop: Full-Stack E-Commerce Platform**](https://github.com/deeppatel1842/online-shopping-website)  
 `Python` `SQL` `REST API` `HTML/CSS` `Auth`  
 > A responsive e-commerce site with secure login, dynamic cart, and real-time order tracking.  
 - Designed with modular REST APIs for payments & shipping  
