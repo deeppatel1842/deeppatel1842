@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deep Patel  
-**AI/ML Engineer | LLM & NLP Specialist | GenAI Developer**  
-_M.S. in Computer Science @ University of Oklahoma | Based in Seattle, WA_
+**AI/ML Engineer | LLM & RAG Specialist | GenAI Infrastructure Developer**  
+_M.S. in Computer Science @ University of Oklahoma | Seattle, WA_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deep_Patel-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/deeppatel1842/)
 [![Resume](https://img.shields.io/badge/Resume-View_My_Resume-8A2BE2?style=flat)](Deep_Resume.pdf)
@@ -8,85 +8,122 @@ _M.S. in Computer Science @ University of Oklahoma | Based in Seattle, WA_
 
 ---
 
-### 🚀 About Me  
-I’m a passionate AI/ML Engineer specializing in **LLM fine-tuning**, **retrieval-augmented generation (RAG)**, and **scalable NLP infrastructure**. With hands-on experience building and deploying end-to-end GenAI systems, I focus on transforming raw data into intelligent, real-world applications.
+## 🚀 About Me  
+I'm an **AI/ML Engineer** specializing in **Large Language Models**, **RAG systems**, and **scalable ML infrastructure**.  
+My work combines deep learning, retrieval, backend engineering, and MLOps to build **production-ready GenAI systems**.
+
+I enjoy working at the intersection of **LLMs + system design**, turning raw datasets and unstructured documents into intelligent, high-performance applications.
 
 ---
 
-### 🔧 Tech Stack  
+## 🧠 Core Skills  
+- ⚙️ **LLM Fine-Tuning & Optimization** — GPT-2, LLaMA, QLoRA, 4-bit inference  
+- 🔍 **Retrieval-Augmented Generation (RAG)** — FAISS, BM25, reranking, metadata normalization  
+- 🧱 **ML Systems Engineering** — data pipelines, embeddings, vector search, evaluation  
+- 📦 **MLOps & Deployment** — Docker, FastAPI, MLflow, W&B, AWS Lambda/EC2/S3  
+- 👁️ **Multimodal AI** — Image-text reasoning (LLaVA), feature extraction, OpenCV  
+- 📊 **Tabular ML** — XGBoost, Random Forest, forecasting, feature engineering  
+
+---
+
+## 🔧 Tech Stack
 **Languages:** Python, Java, SQL  
-**ML Frameworks:** PyTorch, TensorFlow, scikit-learn, Keras  
-**NLP/LLMs:** Hugging Face Transformers, LangChain, FAISS, spaCy, NLTK, BERT, GPT, LLaMA  
-**MLOps & Deployment:** Docker, FastAPI, AWS Lambda, Firebase, CI/CD  
-**Tools & Libraries:** Jupyter, NumPy, Pandas, OpenCV, Plotly, Matplotlib, Git, REST APIs  
+**ML Frameworks:** PyTorch, TensorFlow, scikit-learn  
+**LLMs / NLP:** Transformers, LangChain, LangGraph, LoRA/QLoRA, Sentence Transformers  
+**Retrieval:** FAISS, BM25, Pinecone, Qdrant  
+**MLOps:** Docker, FastAPI, MLflow, W&B, AWS (Lambda, EC2, S3), CI/CD  
+**Data:** PostgreSQL, MySQL, DynamoDB, Pandas, NumPy, OpenCV  
 
 ---
 
-### 🧠 Core Skills  
-- ⚙️ **LLM Fine-Tuning & Quantization** – GPT-2, LLaMA, QLoRA, LoRA  
-- 🔍 **Retrieval-Augmented Generation (RAG)** – FAISS, BM25, reranking  
-- 📦 **End-to-End MLOps** – FastAPI, Docker, AWS Lambda, CI/CD  
-- 🧾 **Semantic Search & Text Similarity** – Sentence Transformers, cosine/dot-product scoring  
-- 📈 **Recommendation & Forecasting** – XGBoost, tabular feature engineering  
-- 🧑‍💻 **Multimodal AI** – Visual reasoning with LLaVA and OpenCV  
+# 💼 Professional Experience  
+
+## 🟣 **Machine Learning Engineer — Community Dreams Foundation**  
+**Remote, USA | Aug 2025 – Present**  
+- Managed full ML lifecycle (requirements → modeling → evaluation), improving predictive performance **22%**.  
+- Built Python + SQL pipelines for automated ingestion and preprocessing, increasing dataset consistency.  
+- Analyzed large community-impact datasets, extracting insights that improved model reliability **30%**.
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🧾 [**NeuroDoc: Multi-Document RAG Assistant**](https://github.com/deeppatel1842/NeuroDoc)  
-`RAG` `FAISS` `BM25` `Citation Reranking` `FastAPI`  
-> A context-aware document assistant with real-time PDF querying, citation-based reranking, and session memory.  
-- Built RAG pipeline with FAISS + BM25, achieving **200ms average latency**  
-- Boosted response relevance by **18%** via reranking and citation grounding  
-- Integrated memory + chat logging for conversational continuity  
+## 🔵 **Founding Machine Learning Engineer — TripRaft**  
+**Remote, USA | May 2025 – Aug 2025**  
+- Defined scalable backend architecture for itinerary planning; reduced API latency **30%**.  
+- Shipped secure data schemas + REST APIs for collaboration, voting, and expense-sharing flows.  
+- Added ML personalization using vector search + ranking models, boosting discovery relevance **18%**.
 
 ---
 
-#### 👀 [**VisuaLens: Multimodal LLM System**](https://github.com/deeppatel1842/VisuaLens)  
-`LLaVA` `Visual Reasoning` `Dual Image QA` `Quantization`  
-> A LLaVA-powered multimodal system for comparing charts, UIs, and images with visual-textual alignment.  
-- Enabled **dual-image comparative QA** for analysis tasks  
-- Applied 4-bit quantization for **efficient local inference**  
-- Reduced hallucination with prompt templates + response logging  
+## 🟠 **AI/ML Engineer — Firenix Technologies**  
+**India | Mar 2021 – Jul 2023**  
+- Delivered PyTorch models for real-time classification, reducing prediction errors **28%**.  
+- Accelerated inference **40%** using ONNX + 8-bit quantization for edge devices.  
+- Developed production ML pipelines with preprocessing, inference, and Dockerized FastAPI services.
 
 ---
 
-#### 📚 [**Semantic Book Recommender**](https://github.com/deeppatel1842/book_recommendation_LLM)  
-`Sentence Transformers` `Emotion-Aware` `DistilRoBERTa` `Gradio`  
-> Personalized book recommendations via semantic and emotional understanding.  
-- Used `emotion-english-distilroberta-base` for tone-aware suggestions  
-- Real-time interactive UI with Gradio  
-- Enabled context-preserving book matching with cosine similarity  
+## 🟢 **ML Research Intern — IIIT Vadodara**  
+**India | Aug 2020 – Dec 2020**  
+- Achieved **82% accuracy** on Alzheimer’s detection using a custom CNN trained on PET scans.  
+- Improved model robustness using domain-specific augmentations and clean neuroimaging pipelines.
 
 ---
 
-#### 💬 [**EcoAssist: RAG-Powered E-Commerce Chatbot**](https://github.com/deeppatel1842/ecom-chatbot)  
-`GPT` `LLaMA` `FAISS` `LoRA` `FastAPI` `AWS Lambda`  
-> A domain-specific AI chatbot for e-commerce query resolution with real-time product lookup.  
-- Fine-tuned GPT-2/LLaMA on 5K+ queries with LoRA/QLoRA  
-- Achieved **92% answer accuracy** using FAISS + RAG  
-- Deployed using **FastAPI + Docker + AWS Lambda** for scalability  
+# 🌟 Featured Projects
+
+### 🧾 [**NeuroDoc — Multi-Document RAG Assistant**](https://github.com/deeppatel1842/NeuroDoc)  
+`RAG` `FAISS` `BM25` `Hybrid Retrieval` `FastAPI`  
+A citation-grounded RAG system for querying large PDFs.  
+- Built hybrid retrieval (FAISS + BM25), improving precision **18%**  
+- Added memory and conversation logging for multi-turn QA  
+- Achieved **~200ms latency** with optimized chunking + reranking  
 
 ---
 
-#### 🛒 [**EzyShop: Full-Stack E-Commerce Platform**](https://github.com/deeppatel1842/online-shopping-website)  
-`Python` `SQL` `REST API` `HTML/CSS` `Auth`  
-> A responsive e-commerce site with secure login, dynamic cart, and real-time order tracking.  
-- Designed with modular REST APIs for payments & shipping  
-- Boosted DB query speed by **25%** via indexing + caching  
-- Mobile-friendly frontend with strong UI/UX focus  
+### 👀 [**VisuaLens — Multimodal LLM System**](https://github.com/deeppatel1842/VisuaLens)  
+`LLaVA` `Visual Reasoning` `Quantization` `Image-Text Alignment`  
+Multimodal reasoning engine for visual-text analysis.  
+- Enabled dual-image comparison and visual Q&A  
+- Applied 4-bit quantization for efficient local inference  
+- Reduced hallucinations using structured prompts + alignment checks  
 
 ---
 
-### 📜 Certifications  
-- 🤖 Generative AI with LLMs – DeepLearning.AI  
-- 💬 NLP with Transformers – Hugging Face  
-- 🧠 Fundamentals of Deep Learning – NVIDIA DLI  
-- 🧱 Transformer-Based NLP Applications – NVIDIA DLI  
+### 📘 [**Semantic Book Recommender**](https://github.com/deeppatel1842/book_recommendation_LLM)  
+`Sentence Transformers` `Emotion Analysis` `Gradio`  
+Emotion-aware semantic recommendation system.  
+- Used DistilRoBERTa emotion embeddings for tone-based suggestions  
+- Live Gradio UI for interactive recommendations  
+- Implemented cosine similarity for semantic matching  
 
 ---
 
-### 📫 Let’s Connect  
-If you're building impactful AI systems or looking to collaborate — I’d love to chat!
+### 🤖 [**EcoAssist — RAG-Powered E-Commerce Chatbot**](https://github.com/deeppatel1842/ecom-chatbot)  
+`GPT` `LLaMA` `LoRA` `FAISS` `FastAPI` `AWS Lambda`  
+E-commerce assistant with AI-powered product search.  
+- Fine-tuned GPT-2 / LLaMA with LoRA & QLoRA  
+- Reached **92% answer accuracy** via hybrid retrieval  
+- Deployed on AWS Lambda + Docker + FastAPI  
+
+---
+
+### 🛒 [**EzyShop — Full-Stack E-Commerce Platform**](https://github.com/deeppatel1842/online-shopping-website)  
+`Python` `SQL` `REST API`  
+- Modular REST APIs for cart, orders, and payments  
+- Improved query performance **25%** with indexing + caching  
+- Clean mobile-responsive UI  
+
+---
+
+## 📜 Certifications  
+- 🤖 Generative AI with Large Language Models — DeepLearning.AI  
+- 💬 NLP with Transformers — Hugging Face  
+- 🧱 Transformer-Based NLP Applications — NVIDIA DLI  
+- 🧠 Fundamentals of Deep Learning — NVIDIA  
+
+---
+
+## 📫 Let's Connect  
+I’m always excited to work on **LLMs, RAG systems, multimodal AI, and scalable ML infrastructure**.  
+Feel free to reach out — let’s build something impactful!
 
