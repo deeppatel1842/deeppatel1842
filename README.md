@@ -3,7 +3,7 @@
 _M.S. in Computer Science @ University of Oklahoma | Seattle, WA_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deep_Patel-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/deeppatel1842/)
-[![Resume](https://img.shields.io/badge/Resume-View_My_Resume-8A2BE2?style=flat)](Deep_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View_My_Resume-8A2BE2?style=flat)](Deep_Patel_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-pateldeep1842@gmail.com-D14836?style=flat&logo=gmail)](mailto:pateldeep1842@gmail.com)
 
 ---
