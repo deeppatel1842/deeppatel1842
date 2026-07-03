@@ -1,129 +1,84 @@
-# 👋 Hi, I'm Deep Patel  
-**AI/ML Engineer | LLM & RAG Specialist | GenAI Infrastructure Developer**  
-_M.S. in Computer Science @ University of Oklahoma | Seattle, WA_
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deep_Patel-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/deeppatel1842/)
-[![Resume](https://img.shields.io/badge/Resume-View_My_Resume-8A2BE2?style=flat)](Deep_Patel_Resume.pdf)
-[![Email](https://img.shields.io/badge/Email-pateldeep1842@gmail.com-D14836?style=flat&logo=gmail)](mailto:pateldeep1842@gmail.com)
+# Deep Patel
 
----
+**AI / LLM Systems Engineer**  
+Seattle / Kirkland, Washington
 
-## 🚀 About Me  
-I'm an **AI/ML Engineer** specializing in **Large Language Models**, **RAG systems**, and **scalable ML infrastructure**.  
-My work combines deep learning, retrieval, backend engineering, and MLOps to build **production-ready GenAI systems**.
+Building reliable LLM products across **RAG**, **agent workflows**, **claim verification**, **evaluation**, and **backend systems**.
 
-I enjoy working at the intersection of **LLMs + system design**, turning raw datasets and unstructured documents into intelligent, high-performance applications.
+[Portfolio](https://deeppatel1842.github.io) · [LinkedIn](https://www.linkedin.com/in/deeppatel1842/) · [Resume](https://deeppatel1842.github.io/Deep_Patel_Resume.pdf) · [Email](mailto:pateldeep1842@gmail.com)
+
+</div>
 
 ---
 
-## 🧠 Core Skills  
-- ⚙️ **LLM Fine-Tuning & Optimization** — GPT-2, LLaMA, QLoRA, 4-bit inference  
-- 🔍 **Retrieval-Augmented Generation (RAG)** — FAISS, BM25, reranking, metadata normalization  
-- 🧱 **ML Systems Engineering** — data pipelines, embeddings, vector search, evaluation  
-- 📦 **MLOps & Deployment** — Docker, FastAPI, MLflow, W&B, AWS Lambda/EC2/S3  
-- 👁️ **Multimodal AI** — Image-text reasoning (LLaVA), feature extraction, OpenCV  
-- 📊 **Tabular ML** — XGBoost, Random Forest, forecasting, feature engineering  
+## What I build
+
+I focus on engineering AI systems that are useful, grounded, and measurable — not just demos. My work combines LLM application design, retrieval pipelines, backend APIs, evaluation logs, and cost-aware system design.
+
+- **LLM systems:** RAG, tool calling, agent workflows, memory, citation grounding, claim verification
+- **Retrieval:** embeddings, FAISS, BM25, hybrid search, RRF fusion, reranking, source filtering
+- **Backend:** FastAPI, Flask, REST APIs, Redis, SQLite/PostgreSQL, Docker, AWS
+- **ML/NLP:** PyTorch, Hugging Face Transformers, LoRA/QLoRA, LLaVA, Sentence Transformers
+- **Evaluation:** citation coverage, retrieval precision, latency, token usage, cost per query, trace logs
 
 ---
 
-## 🔧 Tech Stack
-**Languages:** Python, Java, SQL  
-**ML Frameworks:** PyTorch, TensorFlow, scikit-learn  
-**LLMs / NLP:** Transformers, LangChain, LangGraph, LoRA/QLoRA, Sentence Transformers  
-**Retrieval:** FAISS, BM25, Pinecone, Qdrant  
-**MLOps:** Docker, FastAPI, MLflow, W&B, AWS (Lambda, EC2, S3), CI/CD  
-**Data:** PostgreSQL, MySQL, DynamoDB, Pandas, NumPy, OpenCV  
+## Selected projects
+
+| Project | What it demonstrates | Stack / focus |
+|---|---|---|
+| [**TRACE / CAGE**](https://github.com/deeppatel1842/TRACE) | Trust layer for LLM and RAG systems that decomposes answers into claims, grounds them in evidence, validates citations, and tracks cost/trust signals. | Claim verification, citation validation, cost-aware routing, memory safety |
+| [**DocuPilot AI**](https://github.com/deeppatel1842/DocuPilot_AI) | Multi-agent research pipeline with planner, research, writer, and editor agents; includes web/arXiv/Wikipedia tools, traces, benchmark results, and judge-based evaluation. | FastAPI, OpenAI, Tavily, arXiv, Wikipedia, tracing, LLM-as-judge |
+| [**NeuroDoc**](https://github.com/deeppatel1842/NeuroDoc) | Multi-document RAG assistant for PDF analysis with document upload, chunking, FAISS retrieval, local LLM generation, citations, memory, and Docker setup. | FastAPI, Ollama/Gemma, FAISS, SentenceTransformers, PyMuPDF, Docker |
+| [**TripRaft**](https://github.com/deeppatel1842/Tripraft) | Collaborative travel platform with place search, group planning, voting, chat, expense splitting, itinerary generation, and self-hosted AI agents. | React, Flask, Redis, Socket.IO, SQLite, Ollama, Leaflet |
+| [**codegraph-viz**](https://github.com/deeppatel1842/codegraph-viz) | Open-source Python CLI that scans a codebase, builds an interactive dependency graph, shows impact analysis, and exports compact architecture context for AI coding agents. | Python AST, D3.js, CLI tooling, dependency graphs, PyPI package |
+| [**FinGuard AI**](https://github.com/deeppatel1842/FinGuard_AI) | Scaffolded FastAPI architecture for a privacy-first financial intelligence agent platform with deterministic compute, policy routing, PII masking, and audit-friendly traces. | FastAPI, Pydantic, structured logging, agent architecture, privacy design |
+| [**VisuaLens**](https://github.com/deeppatel1842/VisuaLens) | Visual question answering system for image-grounded Q&A using local vision-language models and a FastAPI-backed interface. | FastAPI, Ollama, LLaVA, image Q&A, session management |
+| [**LoRA / QLoRA NLP Fine-Tuning**](https://github.com/deeppatel1842/sharedtask_4) | Transformer fine-tuning work for NLP generation/classification tasks with evaluation using BLEU, ROUGE, perplexity, and task-level metrics. | Transformers, LoRA/QLoRA, NLP evaluation |
 
 ---
 
-# 💼 Professional Experience  
+## Open-source package
 
-## 🟣 **Machine Learning Engineer — Community Dreams Foundation**  
-**Remote, USA | Aug 2025 – Present**  
-- Managed full ML lifecycle (requirements → modeling → evaluation), improving predictive performance **22%**.  
-- Built Python + SQL pipelines for automated ingestion and preprocessing, increasing dataset consistency.  
-- Analyzed large community-impact datasets, extracting insights that improved model reliability **30%**.
+### [codegraph-viz](https://pypi.org/project/codegraph-viz/)
 
----
+A Python CLI for understanding codebases through interactive dependency graphs, impact analysis, source browsing, and compact JSON exports for AI-assisted development.
 
-## 🔵 **Founding Machine Learning Engineer — TripRaft**  
-**Remote, USA | May 2025 – Aug 2025**  
-- Defined scalable backend architecture for itinerary planning; reduced API latency **30%**.  
-- Shipped secure data schemas + REST APIs for collaboration, voting, and expense-sharing flows.  
-- Added ML personalization using vector search + ranking models, boosting discovery relevance **18%**.
+```bash
+pip install codegraph-viz
+codegraph scan
+codegraph export --compact > codebase_index.json
+```
 
 ---
 
-## 🟠 **AI/ML Engineer — Firenix Technologies**  
-**India | Mar 2021 – Jul 2023**  
-- Delivered PyTorch models for real-time classification, reducing prediction errors **28%**.  
-- Accelerated inference **40%** using ONNX + 8-bit quantization for edge devices.  
-- Developed production ML pipelines with preprocessing, inference, and Dockerized FastAPI services.
+## Skills snapshot
+
+```text
+Languages        Python, SQL
+AI / LLM Systems RAG, agent workflows, tool calling, citation grounding, claim verification, LLM evaluation
+Retrieval        FAISS, BM25, hybrid search, RRF fusion, reranking, embeddings
+Backend          FastAPI, Flask, REST APIs, Redis, SQLite, PostgreSQL, Docker, AWS, Git
+ML / NLP         PyTorch, Hugging Face Transformers, SentenceTransformers, LoRA/QLoRA, LLaVA
+```
 
 ---
 
-## 🟢 **ML Research Intern — IIIT Vadodara**  
-**India | Aug 2020 – Dec 2020**  
-- Achieved **82% accuracy** on Alzheimer’s detection using a custom CNN trained on PET scans.  
-- Improved model robustness using domain-specific augmentations and clean neuroimaging pipelines.
+## Education
+
+**M.S. in Computer Science** — University of Oklahoma, Norman, OK  
+Focus: Natural Language Processing, Artificial Intelligence, Machine Learning, Transformer models
+
+**B.Tech in Computer Science and Engineering** — IIIT Gujarat, India
 
 ---
 
-# 🌟 Featured Projects
+## Connect
 
-### 🧾 [**NeuroDoc — Multi-Document RAG Assistant**](https://github.com/deeppatel1842/NeuroDoc)  
-`RAG` `FAISS` `BM25` `Hybrid Retrieval` `FastAPI`  
-A citation-grounded RAG system for querying large PDFs.  
-- Built hybrid retrieval (FAISS + BM25), improving precision **18%**  
-- Added memory and conversation logging for multi-turn QA  
-- Achieved **~200ms latency** with optimized chunking + reranking  
+I am open to AI Engineer, Applied AI Engineer, LLM Systems Engineer, RAG Engineer, and backend-focused GenAI roles.
 
----
-
-### 👀 [**VisuaLens — Multimodal LLM System**](https://github.com/deeppatel1842/VisuaLens)  
-`LLaVA` `Visual Reasoning` `Quantization` `Image-Text Alignment`  
-Multimodal reasoning engine for visual-text analysis.  
-- Enabled dual-image comparison and visual Q&A  
-- Applied 4-bit quantization for efficient local inference  
-- Reduced hallucinations using structured prompts + alignment checks  
-
----
-
-### 📘 [**Semantic Book Recommender**](https://github.com/deeppatel1842/book_recommendation_LLM)  
-`Sentence Transformers` `Emotion Analysis` `Gradio`  
-Emotion-aware semantic recommendation system.  
-- Used DistilRoBERTa emotion embeddings for tone-based suggestions  
-- Live Gradio UI for interactive recommendations  
-- Implemented cosine similarity for semantic matching  
-
----
-
-### 🤖 [**EcoAssist — RAG-Powered E-Commerce Chatbot**](https://github.com/deeppatel1842/ecom-chatbot)  
-`GPT` `LLaMA` `LoRA` `FAISS` `FastAPI` `AWS Lambda`  
-E-commerce assistant with AI-powered product search.  
-- Fine-tuned GPT-2 / LLaMA with LoRA & QLoRA  
-- Reached **92% answer accuracy** via hybrid retrieval  
-- Deployed on AWS Lambda + Docker + FastAPI  
-
----
-
-### 🛒 [**EzyShop — Full-Stack E-Commerce Platform**](https://github.com/deeppatel1842/online-shopping-website)  
-`Python` `SQL` `REST API`  
-- Modular REST APIs for cart, orders, and payments  
-- Improved query performance **25%** with indexing + caching  
-- Clean mobile-responsive UI  
-
----
-
-## 📜 Certifications  
-- 🤖 Generative AI with Large Language Models — DeepLearning.AI  
-- 💬 NLP with Transformers — Hugging Face  
-- 🧱 Transformer-Based NLP Applications — NVIDIA DLI  
-- 🧠 Fundamentals of Deep Learning — NVIDIA  
-
----
-
-## 📫 Let's Connect  
-I’m always excited to work on **LLMs, RAG systems, multimodal AI, and scalable ML infrastructure**.  
-Feel free to reach out — let’s build something impactful!
-
+- Portfolio: [deeppatel1842.github.io](https://deeppatel1842.github.io)
+- LinkedIn: [linkedin.com/in/deeppatel1842](https://www.linkedin.com/in/deeppatel1842/)
+- Email: [pateldeep1842@gmail.com](mailto:pateldeep1842@gmail.com)
