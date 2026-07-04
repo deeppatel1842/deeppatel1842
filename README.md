@@ -7,7 +7,7 @@ Seattle / Kirkland, Washington
 
 Building reliable LLM products across **RAG**, **agent workflows**, **claim verification**, **evaluation**, and **backend systems**.
 
-[Portfolio](https://deeppatel1842.github.io) · [LinkedIn](https://www.linkedin.com/in/deeppatel1842/) · [Resume](https://deeppatel1842.github.io/Deep_Patel_Resume.pdf) · [Email](mailto:pateldeep1842@gmail.com)
+[Portfolio](https://deeppatel1842.github.io) · [LinkedIn](https://www.linkedin.com/in/deeppatel1842/) · [Resume](https://deeppatel1842.github.io/Deep_Resume.pdf) · [Email](mailto:pateldeep1842@gmail.com)
 
 </div>
 
